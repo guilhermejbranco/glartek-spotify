@@ -6,11 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <button className="btn btn-primary">Login with Spotify</button>
+        <h1>Test</h1>
       </header>
     </div>
   );
