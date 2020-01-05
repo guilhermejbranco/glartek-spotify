@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from '../../images/logo.svg';
+import SearchBar from '../searchbar/SearchBar'
 import './App.scss';
 
 function App() {
