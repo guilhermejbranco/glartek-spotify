@@ -6,6 +6,7 @@ function SearchBar() {
   return (
     <div className="SearchBar">
       <header className="SearchBar-header">
+        <input></input>
       </header>
     </div>
   );
